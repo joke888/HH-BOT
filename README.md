@@ -1,3 +1,6 @@
+
+JOKE 
+
 # BotAlphatJS
 Bot Kicker And Bot Anti Kicker, Check Sider.
 ------
@@ -45,13 +48,9 @@ Command "Help" :
            - `[Creator] = Owner Pembuat Bot`
            - `[Gift] = Sent Sticker`
 
-Credit By@ Nadya Sutjiadi.
-------
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
 
-Thx To :
 ------
-- `Alfatdirk And LINE-TCR TEAM`
+
+
 
 
